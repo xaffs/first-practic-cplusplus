@@ -77,6 +77,6 @@ int main()
 	while (j >= 13) { //Условний	оператор
 		j = j - c;
 		cout << j << " ";
-	}
+	} //made by A.Popov
 
 }
