@@ -55,4 +55,6 @@ int main()
 	else {
 		cout << b5 <<"\n";
 	}
+	int b = 4;
+	string misa = "dimitresk";
 }
